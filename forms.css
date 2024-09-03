@@ -1,0 +1,38 @@
+h1{
+    font-size: 100%;
+}
+ 
+h2{
+    font-size: 150%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 50%;
+    margin-top: 50%;
+}
+ 
+fieldset{
+    border-radius: 20px;
+    background-image:url(https://steamuserimages-a.akamaihd.net/ugc/941699520639318064/B30FDC786E112747191946B2E3C783731F810FA0/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: 50% 109%;
+    background-color: #2f4a5e;
+    height: auto;
+    margin-top: 150px;
+    border: none;
+}
+ 
+  .a{
+    border-radius: 6px;
+    width: 300px;
+    height: 50px;
+   
+}
+ 
+body{
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/fs/dece5f124024167.60fb03546918b.gif);
+}
+ 
+#cadastro{
+    border-radius: 5px;
+   
+}
